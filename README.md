@@ -1,4 +1,4 @@
-# 🌍 World Countries App — Full DevSecOps CI/CD Pipeline
+# 🌍 FINANACE — Full DevSecOps CI/CD Pipeline
 
 <div align="center">
 
