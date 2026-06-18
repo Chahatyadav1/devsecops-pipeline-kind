@@ -130,6 +130,8 @@ world-countries-app/
 │   ├── grafana-dashboard.png
 │   ├── slack.png
 │   └── sonar-qube.png
+|   |__ tag.png
+|   |__ alertmanager.png
 │
 ├── trivy-templates/                    # Custom Trivy report templates
 │   ├── html.tpl                        # HTML vulnerability report
