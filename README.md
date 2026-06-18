@@ -231,23 +231,6 @@ Deployed via Helm. Monitors:
 - **ArgoCD** — Sync status, health status, operation duration
 - **MongoDB** — Connection pool, operation latency
 
-### Custom Alerts
-
-| Alert | Severity | Condition |
-|-------|----------|-----------|
-| `ArgoCDAppOutOfSync` | Warning | ArgoCD app out-of-sync for > 5 minutes |
-
-### Grafana Dashboard Panels
-
-- HTTP Request Rate (per endpoint)
-- P95 Response Latency
-- Error Rate %
-- Pod CPU & Memory Usage
-- ArgoCD Sync / Health Status
-- MongoDB Active Connections
-
----
-
 ## 🛠️ Local Development
 
 ### Prerequisites
