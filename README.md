@@ -43,6 +43,13 @@
 
 ### SonarQube Analysis
 <img src="images/sonar-qube.png" width="800">
+
+### Alert 
+<img src="images/alertmanager.png" width="800">
+
+### Tag 
+<img src="images/tag.png" width="800">
+<img src="images/image-update.png" width="800">
 ---
 
 ## 🏗️ Architecture
