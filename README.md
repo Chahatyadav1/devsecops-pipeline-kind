@@ -23,10 +23,26 @@
 
 ## 📸 Screenshots
 
-| Pipeline (dev) | Pipeline (main) | ArgoCD | Grafana | Slack | App UI | SonarQube |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| ![pipeline-dev](images/pipeline-dev.png) | ![pipeline-main](images/pipeline-main.png) | ![argocd](images/argocd.png) | ![grafana](images/grafana-dashboard.png) | ![slack](images/slack.png) | ![app-ui](images/app-ui.png) | ![sonar](images/sonar-qube.png) |
+### Pipeline (dev)
+<img src="images/pipeline-dev.png" width="800">
 
+### Pipeline (main)
+<img src="images/pipeline-main.png" width="800">
+
+### ArgoCD
+<img src="images/argocd.png" width="800">
+
+### Grafana Dashboard
+<img src="images/grafana-dashboard.png" width="800">
+
+### Slack Notifications
+<img src="images/slack.png" width="800">
+
+### Application UI
+<img src="images/app-ui.png" width="800">
+
+### SonarQube Analysis
+<img src="images/sonar-qube.png" width="800">
 ---
 
 ## 🏗️ Architecture
